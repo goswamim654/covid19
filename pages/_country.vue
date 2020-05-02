@@ -18,8 +18,8 @@
           sm="3"
         >
           <v-card>
-            <v-card-text class="text-center display-2">{{item.count}}</v-card-text>
-            <v-card-text class="text-center title" >{{item.title}}</v-card-text>
+            <v-card-text class="text-center display-2">{{ item.count }}</v-card-text>
+            <v-card-text class="text-center title" >{{ item.title }}</v-card-text>
           </v-card>
         </v-col>
         <v-col>
